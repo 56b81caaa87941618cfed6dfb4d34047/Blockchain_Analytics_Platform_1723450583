@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What is the primary function you envision for the 'Submit' button within the context of analyzing new blockchain information?\", \"option1\": \"To submit new blockchain data for analysis\", \"option2\": \"To finalize and submit user configurations for blockchain data analysis\"}, {\"question 2\": \"Where would you like the 'Submit' button to be positioned on the app's interface in relation to other elements?\", \"option1\": \"At the bottom of the form or input area\", \"option2\": \"Fixed at the bottom of the user's screen for easy accessibility\"}], \"input_token_count\": 263, \"output_token_count\": 127, \"time_taken\": \"0:00:09.475326\"}",
+        "message_id": "guest12082024082327",
+        "timestamp": "12082024082338",
+        "component_file_name": "simple_header_component_1723450584",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Thanks for the input! Adding a \"Submit\" button now.",
         "message_id": "guest12082024082327",
