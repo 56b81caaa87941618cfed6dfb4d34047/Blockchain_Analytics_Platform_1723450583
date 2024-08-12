@@ -24,6 +24,9 @@ Vue.component("simple_header_component_1723450584", {
                 <button id="hello-world-button" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
                     Hello World
                 </button>
+                <button id="submit-button" class="bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded ml-4">
+                    Submit
+                </button>
                 <div id="mobile-menu-2" class="items-center justify-between hidden w-full lg:flex lg:w-auto lg:order-1">
                 <div id="mobile-menu-2" class="items-center justify-between hidden w-full lg:flex lg:w-auto lg:order-1">
                     <ul id="nav-list" class="flex flex-col mt-4 font-medium lg:flex-row lg:space-x-8 lg:mt-0">
