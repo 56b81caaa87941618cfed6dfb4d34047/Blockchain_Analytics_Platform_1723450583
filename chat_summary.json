@@ -36,5 +36,11 @@
         "content": "add a buttont hat says Syubmit",
         "timestamp": "12082024082328",
         "message_id": "guest12082024082327"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Thanks for the input! Adding a \"Submit\" button now.",
+        "timestamp": "12082024082328",
+        "message_id": "guest12082024082327"
     }
 ]
